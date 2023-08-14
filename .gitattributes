@@ -1,1 +1,2 @@
 inputs/layoutlmv3Microsoft/model.onnx filter=lfs diff=lfs merge=lfs -text
+inputs/layoutlmv3Microsoft/ filter=lfs diff=lfs merge=lfs -text
